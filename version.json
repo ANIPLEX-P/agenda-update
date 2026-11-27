@@ -1,8 +1,8 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.7",
-    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.7.apk",
-    "sha256":  "78f4f7fdd549a092bb8d6901ed474177656863b1555310210e1bc4770478d006",
-    "size":  128554,
-    "notes":  "修复课表页时间数字跑位的问题；版本 1.7"
+    "versionCode":  10,
+    "versionName":  "1.9",
+    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.9.apk",
+    "sha256":  "4ee60432bc810da887101f40f2324438f6bfbfcf31de84d8eb57666e74bdbc43",
+    "size":  140917,
+    "notes":  "从网址读取课表默认留空，不再内置开发者的课表；版本 1.9"
 }
