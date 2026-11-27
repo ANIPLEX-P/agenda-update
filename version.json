@@ -1,8 +1,8 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.9",
-    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.9.apk",
-    "sha256":  "4ee60432bc810da887101f40f2324438f6bfbfcf31de84d8eb57666e74bdbc43",
+    "versionCode":  11,
+    "versionName":  "1.10",
+    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.10.apk",
+    "sha256":  "4d4c3f620137bfe62cf93f573ca91b89b2083f18315ed17e2691d29f39550db6",
     "size":  140917,
-    "notes":  "从网址读取课表默认留空，不再内置开发者的课表；版本 1.9"
+    "notes":  "在微信/文件管理器里可以直接「用其他应用打开」导入课表；导入框提示改成通用示例"
 }
