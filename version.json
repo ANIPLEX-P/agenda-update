@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.5",
-    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.5.apk",
-    "sha256":  "c6fe47eec473085a9b7697b9a8eeb0c7ccb7ec55874aa5bb15a246323871723b",
-    "size":  124458,
-    "notes":  "测试在线更新：这一版只改了版本号"
+    "versionCode":  7,
+    "versionName":  "1.6",
+    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.6.apk",
+    "sha256":  "00289c27f7dc09c08d42b361617a7685f8770c5c67905f5282fc21f46fef9d44",
+    "size":  128554,
+    "notes":  "课表导入：设置里粘贴或从网址读取，一次写进整学期"
 }
