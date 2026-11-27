@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.6",
-    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.6.apk",
-    "sha256":  "00289c27f7dc09c08d42b361617a7685f8770c5c67905f5282fc21f46fef9d44",
+    "versionCode":  8,
+    "versionName":  "1.7",
+    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.7.apk",
+    "sha256":  "78f4f7fdd549a092bb8d6901ed474177656863b1555310210e1bc4770478d006",
     "size":  128554,
-    "notes":  "课表导入：设置里粘贴或从网址读取，一次写进整学期"
+    "notes":  "修复课表页时间数字跑位的问题；版本 1.7"
 }
