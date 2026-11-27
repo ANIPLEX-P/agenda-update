@@ -1,0 +1,8 @@
+{
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "apk":  "https://cdn.jsdelivr.net/gh/ANIPLEX-P/agenda-update@main/agenda-1.2.apk",
+    "sha256":  "7e5ec7621a45e96c52a731f2e3a2170dc563bfee549d511058adad894c446171",
+    "size":  124458,
+    "notes":  "首次接入在线更新：启动后自动检查，有新版只在设置齿轮打小红点"
+}
