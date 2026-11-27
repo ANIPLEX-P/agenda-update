@@ -1,8 +1,8 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.4",
-    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.4.apk",
-    "sha256":  "0dca91fe31add099a647a0f30dc6599a8d169de9eb7f59c3e07903ffb1141da4",
+    "versionCode":  6,
+    "versionName":  "1.5",
+    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.5.apk",
+    "sha256":  "c6fe47eec473085a9b7697b9a8eeb0c7ccb7ec55874aa5bb15a246323871723b",
     "size":  124458,
-    "notes":  "改成直连 GitHub 原始地址，发版即时可见"
+    "notes":  "测试在线更新：这一版只改了版本号"
 }
