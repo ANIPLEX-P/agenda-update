@@ -1,8 +1,8 @@
 {
-    "versionCode":  15,
-    "versionName":  "1.14",
-    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.14.apk",
-    "sha256":  "a1cbe2fcd1fca9a2179426159a00b439896cf9625ea3a7c357b6cde76ca2b7d4",
+    "versionCode":  16,
+    "versionName":  "1.15",
+    "apk":  "https://raw.githubusercontent.com/ANIPLEX-P/agenda-update/main/agenda-1.15.apk",
+    "sha256":  "131561352900424c0aa456271b472af46f145bd849140ac160780d54b4a3284c",
     "size":  145013,
-    "notes":  "下载失败会自动重试 3 次；超时提示改成看得懂的话"
+    "notes":  "设置底部加开发者署名；下载失败自动重试"
 }
